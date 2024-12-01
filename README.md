@@ -1,4 +1,4 @@
 # Classification-Model-
 This model incorporates three classification methods, including the supervise learning approach, KNN and Logistic Regression and unsupervised learning approach: Association Ruel Mining. 
-The programming supplement material designed for an operation analytics project aimed at helping Rexnord, a major motor supplier to analyze the attribute of the 10000 instances of Rexnord’s industrial products to identify the attributes that associate with the winning business instances.  
+The programming supplement material designed for an operation analytics project aimed at helping a major motor supplier to analyze the attribute of the 10000 instances of its industrial products to identify the attributes that associate with the winning business instances.  
 In the programming sample, I utilize the unsupervised machine learning approach, the Association Rule mining to identify the factors that significantly associate with the win or loss of the business instances. More specifically, we categorize the continuous variables and use all the attributes as categorical variables to model their associations with original
